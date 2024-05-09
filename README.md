@@ -1,6 +1,6 @@
 ## 📝 ENSF 692 - Assignment 1 Tasks
-# Roxanne Mai
-# One of my favourite inspirational quote: It takes courage to grow up and become who you really are.
+* Roxanne Mai
+* One of my favourite inspirational quote: It takes courage to grow up and become who you really are.
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
 * Edit the `assignment1code.py` file by following the instructions in the comments.
